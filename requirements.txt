@@ -1,0 +1,8 @@
+openai
+whisper
+openai-whisper
+gtts
+sounddevice
+soundfile
+numpy
+python-dotenv
